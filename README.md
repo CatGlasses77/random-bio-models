@@ -8,4 +8,8 @@ Just some random bio models!
 
 These rules will probably be subject to change, so look out for that!
 Note: All commits must be appropriately named too, maybe even add description, and if you want someone to verify it, do mention it.
+
+# Note
+All initial commits must be made in the test-code branch. I will merge it with the master branch after the code passes checks.
+
 Happy coding >w<! 
